@@ -1,6 +1,6 @@
 # VQA Fine-tuning on Amazon Product Images using PaliGemma
 
-This repository contains code and training scripts to fine-tune Google’s [`paligemma-3b-pt-224`](https://huggingface.co/google/paligemma-3b-pt-224) model for **Visual Question Answering (VQA)**, applied to the [Amazon ML Challenge 2023](https://www.kaggle.com/competitions/amazon-ml-challenge-2023/data). The objective is to extract product attributes (like weight, dimensions, etc.) directly from product images using multimodal learning.
+This repository contains code and training scripts to fine-tune Google’s [`paligemma-3b-pt-224`](https://huggingface.co/google/paligemma-3b-pt-224) model for **Visual Question Answering (VQA)**, applied to the [Amazon ML Challenge 2024](https://www.kaggle.com/datasets/abhishekgautam12/amazon-ml-challenge-2024). The objective is to extract product attributes (like weight, dimensions, etc.) directly from product images using multimodal learning.
 
 ---
 
